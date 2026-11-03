@@ -1,4 +1,4 @@
-# Moderation Workbench
+ Moderation Workbench
 
 An AI-assisted content-moderation platform. Users write posts and comments. Every new item is checked by
 **deterministic rules** and by **Google Gemini** against a **versioned policy**. The system then builds a
